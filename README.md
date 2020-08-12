@@ -1,18 +1,18 @@
 
 
-{"title":"Here goes the title"}
+{"title":"Readme generator"}
 
-{"description":"Here goes a description"}{"installation":"Installation instructions go here"}
+{"description":"Generates a readme.md file"}{"installation":"Download zip and enter "node index.js" in command line"}
 
-{"usage":"Here are instructions and examples for use"}
+{"usage":"Makes readme files"}
 
-{"credits":"Here goes the list of collaborators"}
+{"credits":"N/A"}
 
-{"license":"License"}
+{"license":"N/A"}
 
 
 
-{"contributing":"Here goes contributors information"}{"tests":"Tests information"}
+{"contributing":"N/A"}{"tests":"N/A"}
 
-{"questions":"Here goes github username and email"}
+{"questions":"Github username: vincentslee"}
 
