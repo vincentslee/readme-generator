@@ -17,7 +17,7 @@ const creditstxt = "List your collaborators, if any, with links to their GitHub 
 const licensetxt = "If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)";
 const contributingtxt = "Contributors?";
 const teststxt = "Tests?";
-const questionstxt = "Questions?";
+const questionstxt = "Enter github username and email";
 
 
 // array of questions for user
