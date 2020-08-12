@@ -1,19 +1,18 @@
-# readme-generator
-[Description]
-Generates README file
+{"title":"Sample README"}
 
-[Installation]
-Download zip and run index.js by entering "node index.js" in command line
+{"description":"Here is a description"}
 
-[Table of Contents]
+{"installation":"Here are the installation steps"}
 
-[Usage]
 
-[License]
 
-[Contributinig]
+{"usage":"Here are instructions and examples for use"}
 
-[Tests]
+{"credits":"Here is a list of collaborators"}
 
-[Questions]
+{"license":"Here is licensing information"}{"contributing":"Contributors section"}
+
+
+
+{"tests":"Tests section"}{"questions":"Github username and email"}
 
