@@ -1,18 +1,18 @@
-{"title":"Sample README"}
-
-{"description":"Here is a description"}
-
-{"installation":"Here are the installation steps"}
 
 
+{"title":"Here goes the title"}
+
+{"description":"Here goes a description"}{"installation":"Installation instructions go here"}
 
 {"usage":"Here are instructions and examples for use"}
 
-{"credits":"Here is a list of collaborators"}
+{"credits":"Here goes the list of collaborators"}
 
-{"license":"Here is licensing information"}{"contributing":"Contributors section"}
+{"license":"License"}
 
 
 
-{"tests":"Tests section"}{"questions":"Github username and email"}
+{"contributing":"Here goes contributors information"}{"tests":"Tests information"}
+
+{"questions":"Here goes github username and email"}
 
